@@ -7,8 +7,11 @@ Instructions for use:
 Run the exe file on your computer and COLLAPSE the command line (CMD) and use 1 of 4 key combinations
 
 Ctrl + Alt + 1 - use the first aid kit.
+
 Ctrl + Alt + 2 - requirement to leave the territory
+
 Ctrl + Alt + 3 - handcuffed
+
 Ctrl + Alt + 4 - ate
 
 RU 
